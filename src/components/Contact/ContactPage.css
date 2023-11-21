@@ -1,0 +1,38 @@
+.contact{
+  font-family: var(--montserrat);
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-heading{
+  color: #20241d;
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+}
+
+.contact-image-1{
+  margin-left: 30%;
+  height: 23rem;
+  width: 34rem;
+  background-image: url(../../img/MentalHealth.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.contact-button{
+  display: flex;
+ justify-content: center;
+}
+
+.contact button{
+  background-color: #a4ba92;
+  border: none;
+  color: #20241d ;
+  font-size: medium;
+  filter: drop-shadow(7px 10px 5px #21281e);
+  width: 10rem;
+  height: 2.5rem;
+  border-radius: 0.5rem;
+}

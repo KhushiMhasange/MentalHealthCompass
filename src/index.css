@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Noto+Sans:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+:root{
+  --white: #fff;
+  --black: #333;
+  --light-blue: #E3F8F8;
+  --bluish-green: #1FB4BB;
+  --green: #237591;
+  --orange: #F89941;
+
+
+  --montserrat: 'Montserrat', sans-serif;
+  --noto : 'Noto Sans', sans-serif;
+  --sg: 'Space Grotesk', sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
